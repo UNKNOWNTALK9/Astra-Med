@@ -370,7 +370,7 @@ useful starting point.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **ASTRA-MED**\
 *Monitoring Human Health Beyond Earth.* 🌍 → 🚀
 :::
