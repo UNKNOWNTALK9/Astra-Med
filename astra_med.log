@@ -1,0 +1,11 @@
+2026-11-15 18:23:37,120 [INFO] database: [seed] Demo data created (10800 simulated readings)
+2026-11-15 18:24:15,716 [INFO] database: [auth] User 'admin' logged in
+2026-11-15 18:24:41,594 [INFO] monitoring: Monitoring engine started (interval 1.0s)
+2026-11-15 18:28:28,453 [INFO] database: [auth] User admin logged out
+2026-11-15 18:28:28,463 [INFO] monitoring: Monitoring engine stopped
+2026-11-15 18:29:30,443 [INFO] database: [auth] User 'medic' logged in
+2026-11-15 18:29:34,496 [INFO] monitoring: Monitoring engine started (interval 1.0s)
+2026-11-15 18:32:20,835 [INFO] monitoring: Monitoring engine stopped
+2026-11-15 19:04:53,171 [INFO] database: [auth] User 'admin' logged in
+2026-11-15 19:05:03,617 [INFO] monitoring: Monitoring engine started (interval 1.0s)
+2026-11-15 19:19:57,437 [INFO] monitoring: Monitoring engine stopped
